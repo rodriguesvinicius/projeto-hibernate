@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   [git clone https://github.com/seu_usuario/seu_repositorio.git](https://github.com/rodriguesvinicius/projeto-hibernate.git)
 
 
 Importe o projeto em sua IDE favorita.
